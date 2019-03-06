@@ -1,7 +1,6 @@
 package Pages.Base;
 
 import Pages.*;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
 public final class PageExtensions {
