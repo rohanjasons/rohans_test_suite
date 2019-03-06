@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Java.Test.Web">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Java.Test.Web/out/artifacts/Java_Test_Web_jar/Java.Test.Web.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Java.Test.Web/out/artifacts/Java_Test_Web_jar/Java.Test.Web.jar!/" />
+    </SOURCES>
+  </library>
+</component>
